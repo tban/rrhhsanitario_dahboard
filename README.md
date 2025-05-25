@@ -122,12 +122,6 @@ Este proyecto está abierto a contribuciones de la comunidad. Si trabajas en el 
 
 Este proyecto está licenciado bajo la [MIT License](LICENSE) - consulta el archivo LICENSE para más detalles.
 
-## 🙏 Agradecimientos
-
-- Universidad Fernando Pessoa Canarias
-- Máster en Gestión Sanitaria 2024-2025
-- Dra. Carmen Sánchez Gombau
-- Grupo Sanitario Global
 
 ---
 
